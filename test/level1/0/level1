@@ -1,0 +1,4 @@
+#!/opt/pwn.college/python
+
+print("Welcome to SeP PWNCollege instance, the flag is: ", end="")
+print(open("/flag").read())
